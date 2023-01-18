@@ -10,7 +10,7 @@ Projeto das aulas de Javascript Web da Alura. Utilizei este projeto para pratica
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://ibb.co/FzPJf9W#vitrinedev)
+![](https://i.ibb.co/sqBQDhP/a.png#vitrinedev)
 
 ## Detalhes do projeto
 
