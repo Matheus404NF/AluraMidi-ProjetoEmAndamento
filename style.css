@@ -1,0 +1,44 @@
+body, html {					
+	background: linear-gradient(135deg, blue, yellow);				
+	height: 100%;				
+					
+}					
+					
+h1 {					
+	text-align: center;				
+	padding: 100px 0px 0px 0px;				
+	font-size: 80px;				
+					
+					
+}					
+					
+.buttons {					
+	padding: 100px 30% 0px 30%;				
+	text-align: center;				
+					
+}					
+					
+.button {					
+	font-size: 40px;				
+	margin: 2% 2% 2% 2%;				
+	border: solid 5px black;				
+	padding: 2% 2% 2% 2%;				
+	font-weight: bold;				
+	animation: tesuto 1s linear infinite alternate;				
+					
+					
+}					
+					
+					
+@keyframes tesuto {					
+	100% {				
+		transform: scale(110%);			
+	}				
+}					
+					
+.button:active {					
+	transform: scale(150%);				
+}					
+					
+					
+					
